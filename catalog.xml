@@ -1,0 +1,24 @@
+<CATALOG>
+   <SUBJECT>
+      <COURSE>Professional Style</COURSE>
+      <COUNTRY>USA</COUNTRY>
+      <COMPANY>DOTA2</COMPANY>
+      <PRICE>$16000</PRICE>
+      <YEAR>2017</YEAR>
+   </SUBJECT>
+   
+   <SUBJECT>
+      <COURSE>Getting Agile</COURSE>
+      <COUNTRY>Kazakhstan</COUNTRY>
+      <COMPANY>DOTA 2</COMPANY>
+      <PRICE>$15000</PRICE>
+      <YEAR>2016</YEAR>
+   </SUBJECT>
+   <SUBJECT>
+      <COURSE>The best one</COURSE>
+      <COUNTRY>USA</COUNTRY>
+      <COMPANY>DOTA</COMPANY>
+      <PRICE>$25000</PRICE>
+      <YEAR>2018</YEAR>
+   </SUBJECT>
+</CATALOG>
